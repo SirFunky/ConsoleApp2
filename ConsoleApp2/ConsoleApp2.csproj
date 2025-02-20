@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\tbd83\Desktop\Uppgifter\Pension uppgift.cs" Link="Pension uppgift.cs" />
+  </ItemGroup>
+
+</Project>
